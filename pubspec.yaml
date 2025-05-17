@@ -66,7 +66,7 @@ flutter:
   fonts:
     - family: GT Sectra Fine
       fonts:
-        - asset:fonts/GT Sectra Fine Regular.ttf
+        - asset: assets/fonts/GT Sectra Fine Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
